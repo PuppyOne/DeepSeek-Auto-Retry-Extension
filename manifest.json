@@ -1,0 +1,16 @@
+{
+    "name": "DeepSeek Auto Retry",
+    "version": "0.0.0.1",
+    "manifest_version": 3,
+    "description": "Auto retry when DeepSeek failed.",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://chat.deepseek.com/*"
+            ],
+            "js": [
+                "scripts/index.js"
+            ]
+        }
+    ]
+}
