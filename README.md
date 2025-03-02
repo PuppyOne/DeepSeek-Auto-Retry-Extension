@@ -13,6 +13,7 @@ Automatically retries requests when the DeepSeek web client shows "Server Busy" 
 - Browser: Microsoft Edge
 
 ## Installation
+
 1. Clone this repository.
 2. Open Microsoft Edge, go to "Manage extensions" and enable **Developer mode**.
 3. Load the unpacked extension and select the extension folder (the directory containing `manifest.json`).
