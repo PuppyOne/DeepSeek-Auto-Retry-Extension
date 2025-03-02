@@ -14,7 +14,7 @@ Automatically retries requests when the DeepSeek web client shows "Server Busy" 
 
 ## Installation
 
-1. Clone this repository.
+1. Clone [this repository](https://github.com/PuppyOne/DeepSeek-Auto-Retry-Extension.git).
 2. Open Microsoft Edge, go to "Manage extensions" and enable **Developer mode**.
 3. Load the unpacked extension and select the extension folder (the directory containing `manifest.json`).
 
